@@ -1,0 +1,9 @@
+{
+	"name": "MyProjectAzurefactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdfeca3b-61b1-4ab4-9516-9c407a47f6bd",
+		"tenantId": "ef45a68b-beaa-49c7-8263-6417f13cb906"
+	}
+}
